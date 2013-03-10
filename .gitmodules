@@ -7,3 +7,5 @@
 [submodule "janky-src"]
 	path = janky-src
 	url = https://github.com/github/janky.git
+[submodule "cookbooks/java"]
+	url = https://github.com/opscode-cookbooks/java.git
